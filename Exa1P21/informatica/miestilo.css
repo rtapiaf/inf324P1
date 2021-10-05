@@ -1,0 +1,41 @@
+body
+{background:e1e1e1}
+#cabecera{
+	width:1024;
+	heigth:300;
+	background:#05196e;
+	color:#ffffff;
+	float:left
+}
+.menu{
+	width:350;
+	heigth:500;
+	background:#5360fe;
+	color:#ffffff;
+	float:left;
+}
+.cuerpo{
+	width:674;
+	heigth:800;
+	background:#d1d3f3;
+	float:left;
+}
+ul{
+	list-style-type:none;
+	margin:10;
+	padding:0;
+	width:330px;
+}
+li a{
+	display:block;
+	height:25px;
+	text-decoration:none;
+	color:white;
+	padding:3;
+}
+li a:hover{
+	background:#d1d3f3;
+}
+.elegido{
+	background:#05196e;
+}
